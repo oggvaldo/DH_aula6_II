@@ -6,3 +6,9 @@ R: Microsoft. Queriam aumentar a participação em projetos open source.
 
 Existe outra maneira, além do terminal, de trabalhar com o Github?
 R: Existe as interfaces visuais como o github desktop.
+
+Foi criado pelo Linus Torvalds para o desenvolvimento do kernel Linux.
+
+A Microsoft comprou o github para reforçar sua parceria de projetos de tecnologia aberta.
+
+Sim, através do Github desktop.
