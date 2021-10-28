@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-Marcelo
-=======
 Paula
 Linus Torvalds
 Microsoft
@@ -12,7 +9,6 @@ Microsoft
 Usando o Github Desktop
 
 Felipe Teixeira
->>>>>>> 208e51f92b7fb64fc9d159dfbcdaa11cd53e5f56
 Linus Torvalds
 Microsoft
 Usando o Github Desktop
