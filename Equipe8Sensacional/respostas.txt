@@ -1,0 +1,5 @@
+Foi criado pelo Linus Torvalds para o desenvolvimento do kernel Linux.
+
+A Microsoft comprou o github para reforçar sua parceria de projetos de tecnologia aberta.
+
+Sim, através do Github desktop.
