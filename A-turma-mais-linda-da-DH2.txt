@@ -1,3 +1,7 @@
-Seus lindos, coloquem o nome de vocês abaixo:
+﻿Seus lindos, coloquem o nome de vocês abaixo:
 Anayran
+<<<<<<< HEAD
 Adriel F. Reis
+=======
+Heberth
+>>>>>>> 1df0177740ea08752acce15f906528c419f914d7
