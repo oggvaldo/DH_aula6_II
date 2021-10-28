@@ -1,0 +1,3 @@
+1. O Git é um projeto de código aberto maduro e com manutenção ativa desenvolvido em 2005 por Linus Torvalds, o famoso criador do kernel do sistema operacional Linux.
+2. Microsoft irá injetar esforço e dinheiro para fazer com que o serviço se torne mais popular principalmente no que diz respeito a suas soluções corporativas, que são pagas e hoje representam mais da metade do lucro anual do GitHub.
+3. É possível trabalhar com o GitHub de outras formas além do terminal. Podemos usar o próprio site do GitHub. Tambem existe o próprio aplicativo, chamado GitHub Desktop, assim como outros aplicativos que possui podem ser integrados com ele, como o GitKraken.
