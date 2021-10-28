@@ -1,0 +1,6 @@
+Quem inventou o sistema de controle de versão Git e por quê?
+Quem atualmente é o dono do Github e por quê?
+Existe outra maneira, além do terminal, de trabalhar com o Github?
+git push
+os demais fazem o pull 
+git pull origin grupo6
