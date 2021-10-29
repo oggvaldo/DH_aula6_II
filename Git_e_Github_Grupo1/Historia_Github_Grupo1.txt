@@ -1,0 +1,7 @@
+Questão 1 - Resposta: O desenvolvimento do Git surgiu após vários desenvolvedores do kernel (núcleo) do Linux decidirem desistir de acessar ao sistema do BitKeeper, que é um ecsoftware proprietário.
+O criador foi Linus Tovalds
+Questão 2 - Resposta: Microsoft, adquiriu por 7,5 bilhões de dolares em 2018
+Questão 3 - Resposta: Sim, através do Github desktop e do site Github
+Questao a: Linus Tovalds
+Questão b: BugSoft 
+Questao c: Github Desktop e o proprio site
